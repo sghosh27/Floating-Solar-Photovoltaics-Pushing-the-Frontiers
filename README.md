@@ -16,7 +16,7 @@ the available surface area of the water body.
 in Nicaragua, Honduras, and Guyana.
 3. Special use cases of colocation with AI data center plants and colocation within hydro reservoirs are
 discussed.
-4. FSPV use case in El Cajon dam illustrates 128.8 tons of CO2, 2.2 tons of NOx, and 2.6 tons of SO2
+4. FSPV use case in El Cajon dam illustrates 130.2 tons of CO2, 2.2 tons of NOx, and 2.6 tons of SO2
 per MW reduction.
 5. Favoring energy policies related to renewable and low-carbon energy sources from Brazil, Argentina,
 and Chile is studied.
