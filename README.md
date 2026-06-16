@@ -2,9 +2,6 @@
 
 Implementation of the paper "Pushing the Frontiers for Floating Solar Photovoltaics - The Case for South America".
 
-To use the excel datasheets, you must attribute the original work and cite the following publication:
-
-*TBD*
 
 <img width="1320" height="1020" alt="Visual_Abstract_Alternate_Palette_Ours" src="https://github.com/user-attachments/assets/7c10bc9b-15c9-4b89-8aa2-72fbb36da8e0" />
 
