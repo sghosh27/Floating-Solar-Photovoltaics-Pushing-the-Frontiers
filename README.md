@@ -1,6 +1,6 @@
 # Pushing the Frontiers for Floating Solar Photovoltaics - The Case for South America
 
-Implementation of the paper "Pushing the Frontiers for Floating Solar Photovoltaics - The Case for South America" by Soham Ghosh, Anik Goswami, and Krishna Kumba.
+Implementation of the paper "Pushing the Frontiers for Floating Solar Photovoltaics - The Case for South America".
 
 To use the excel datasheets, you must attribute the original work and cite the following publication:
 
@@ -22,4 +22,4 @@ per MW reduction.
 and Chile is studied.
 
 
-Please contact the corresponding author at sghosh27@ieee.org for further technical assistance.
+
