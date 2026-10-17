@@ -1,6 +1,6 @@
 # Pushing the Frontiers for Floating Solar Photovoltaics - The Case for South America
 
-Implementation of the paper "Pushing the Frontiers for Floating Solar Photovoltaics - The Case for South America".
+Implementation of the paper "Unlocking the Potential of Floating Solar Photovoltaics in Central and Southern America: Deployability and Techno-economic Assessment".
 
 
 <img width="1320" height="1020" alt="Visual_Abstract_Alternate_Palette_Ours" src="https://github.com/user-attachments/assets/7c10bc9b-15c9-4b89-8aa2-72fbb36da8e0" />
