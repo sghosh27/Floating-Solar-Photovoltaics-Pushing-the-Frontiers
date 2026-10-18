@@ -1,4 +1,4 @@
-# Pushing the Frontiers for Floating Solar Photovoltaics - The Case for South America
+# Unlocking the Potential of Floating Solar Photovoltaics in Central and Southern America: Deployability and Techno-economic Assessment
 
 Implementation of the paper "Unlocking the Potential of Floating Solar Photovoltaics in Central and Southern America: Deployability and Techno-economic Assessment".
 
